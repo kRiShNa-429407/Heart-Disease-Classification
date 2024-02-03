@@ -10,6 +10,12 @@
 ## About the data
 #### The original data set come frome the "https://archive.ics.uci.edu/dataset/45/heart+disease"
 
+## Model Comparison
+<img src= "Images/comparison.png"  width="600"/>
+
+#### Classification report:
+<img src= "Images/report.png"/>
+
 ## How to use the trained model?
 #### To use the trained model (use 'joblib'):
 ##### * from joblib import load
