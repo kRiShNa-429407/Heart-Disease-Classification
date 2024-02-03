@@ -9,3 +9,9 @@
 
 ## About the data
 #### The original data set come frome the "https://archive.ics.uci.edu/dataset/45/heart+disease"
+
+## How to use the trained model?
+#### To use the trained model (use 'joblib'):
+##### * from joblib import load
+##### * load(filename= 'trained_model.joblib')
+##### It is imported you can now use it to make predictions!!
