@@ -2,7 +2,7 @@
 <img src="image.webp" />
 
 ## Aim of the project
-#### Given medical patient's attributes, is it possible for a Machine Learning model to predict wether or not the patient has a heart disease?
+#### Given medical patient's attributes, is it possible for a Machine Learning model to predict whether or not the patient has a heart disease?
 
 ## Dependencies installation
 #### pip install pandas
